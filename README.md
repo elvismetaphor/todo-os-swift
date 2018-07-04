@@ -1,4 +1,4 @@
-#todo-os-swift
+# todo-os-swift
 A simple todo app run in iPhone. This project has no external dependencies.
 
 ## What I did
